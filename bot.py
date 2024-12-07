@@ -78,3 +78,5 @@ bot.run(token)
 ##I'm on a mission, gonna act right -right -right
 ##Makе no decision per the dеadline
 ##You got a valid fight attacking vertical
+
+## ASHKFFGDGDHFFJGHGHDHFJFDDFHJHHDFG :3
